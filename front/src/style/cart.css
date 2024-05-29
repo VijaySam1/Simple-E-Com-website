@@ -1,0 +1,40 @@
+.Daddres {
+  color: white;
+  background-color: rgba(2, 23, 42, 0.779);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+}
+
+.cart{
+  height: 90vh;
+}
+.cart {
+  background-color: rgba(242, 245, 247, 0.973);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+}
+.cartCard {
+  box-shadow: rgba(123, 159, 213, 0.25) 0px 14px 28px, rgba(151, 169, 217, 0.22) 0px 10px 10px;  border-radius: 70px;
+}
+.cartCard img {
+height: 150px;
+width: 150px;
+  border-radius: 50%;
+}
+.icon{
+  color: rgb(74, 131, 236)  ;
+}
+.iconx{
+  color: brown;
+}
+
+.street{
+  width: 139%;
+}
+.name{
+  width: 113%;
+}

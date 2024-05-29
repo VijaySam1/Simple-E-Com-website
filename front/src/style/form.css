@@ -1,0 +1,78 @@
+.regForm {
+  width: 43%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  border: 1px solid #7b2be4;
+  background: rgba(246, 247, 248, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.regpage {
+  background-image: url("img1.png");
+}
+h1{
+  margin-top: 1.5rem;
+
+  text-align: center;
+  margin-bottom: 1.5rem;
+
+}
+
+input {
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 80%;
+}
+
+input[type="submit"] {
+  width: 50%;
+margin-bottom: 1.5rem;
+  background-color: #4caf50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.success {
+  color: green;
+  font-size: 14px;
+  margin-top: 5px;
+}
+.address {
+  width: 70%;
+}
+.address input{
+  margin: 5px;
+}
+textarea{
+  width: 70%;
+
+}
+.uploadIcon{
+  color: rgb(68, 68, 68);
+  padding: 3rem;
+  border: 1px solid rgb(68, 68, 68);
+  border-radius: 50PX;
+  
+}
+
